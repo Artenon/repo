@@ -2,7 +2,7 @@
   "cars": [
     {
       "id": 1,
-      "images": ["the-history-of-the-muscle-car-image-1.jpg"],
+      "images": ["https://raw.githubusercontent.com/Artenon/repo/master/the-history-of-the-muscle-car-image-1.jpg"],
       "name": "Volvo XC70, 2007",
       "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
       "price": 1500000,
