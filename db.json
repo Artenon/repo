@@ -2,7 +2,7 @@
   "cars": [
     {
       "id": 1,
-      "images": ["https://raw.githubusercontent.com/Artenon/repo/master/the-history-of-the-muscle-car-image-1.jpg"],
+      "images": ["https://raw.githubusercontent.com/Artenon/repo/master/volvo_xc70.jpg"],
       "name": "Volvo XC70, 2007",
       "description": "1973 года выпуска, в отличном состоянии. Пробег 200000 км.",
       "price": 1500000,
@@ -12,7 +12,7 @@
         "brand": "Volvo",
         "model": "XC70",
         "productionYear": 2007,
-        "body": "body",
+        "body": "Универсал",
         "mileage": 200000
       },
       "options": [
@@ -26,6 +26,22 @@
           "option_name": "Центральный замок"
         }
       ]
+    },
+    {
+      "id": 2,
+      "images": ["https://raw.githubusercontent.com/Artenon/repo/master/ferrari_f40.jpg"],
+      "name": "Ferrari F40",
+      "description": "1989 года выпуска, в отличном состоянии. Пробег 35000 км.",
+      "price": 250000000,
+      "contacts": "seller@mail.fr",
+      "technical_characteristics": {
+        "car_id": 2,
+        "brand": "Ferrari",
+        "model": "F40",
+        "productionYear": 1989,
+        "body": "Купе",
+        "mileage": 35000
+      }
     }
   ]
 }
